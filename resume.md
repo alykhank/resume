@@ -2,11 +2,9 @@
 
 ### Software Engineering
 
-* * *
-
-* alykhan.com
-* github.com/alykhank
-* resume@alykhan.com
+* [alykhan.com](http://alykhan.com)
+* [github.com/alykhank](http://github.com/alykhank)
+* [resume@alykhan.com](mailto:resume@alykhan.com)
 * +1 (416) 452-7502
 
 #### Summary of Qualifications
