@@ -2,10 +2,12 @@
 
 ### Software Engineering
 
-* [alykhan.com](http://alykhan.com)
-* [github.com/alykhank](http://github.com/alykhank)
-* [resume@alykhan.com](mailto:resume@alykhan.com)
-* +1 (416) 452-7502
+<div id="wrapper">
+	<div class="item"><a href="http://alykhan.com">alykhan.com</a></div>
+	<div class="item"><a href="mailto:resume@alykhan.com">resume@alykhan.com</a></div>
+	<div class="item"><a href="http://github.com/alykhank">github.com/alykhank</a></div>
+	<div class="item">+1 (416) 452-7502</div>
+</div>
 
 #### Summary of Qualifications
 
