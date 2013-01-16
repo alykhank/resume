@@ -52,7 +52,7 @@
 ##### iOS Developer
 * Independently learning Objective-C, developed RPN Calculator, creating UW Menu native application
 
-#### Infrared Experimentation
+##### Infrared Experimentation
 * Designed systems using infrared LED's and Wii Remotes for infrared camera-based touch screens and virtual reality head tracking
 * Experimented with remote projector control via infrared adapters for smartphones
 
