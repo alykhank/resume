@@ -8,46 +8,38 @@
 #### Skills
 
 * Strong initiative and passion for learning: independently studied C, Python, Java, and Objective-C
-* Organized team member: collaborated using agile scrum framework with Fixmo Sentinel Dev Team
-* Confident and determined in leadership roles, fluent in English and French, excellent exposition skills
-
+* Organized team member: collaborated with Fixmo's Developer Team using agile scrum framework
+* Confident in leadership roles, attentive listener, fluent in English and French
 
 #### Work Experience
 
 ##### Software Engineering &mdash; Sentinel/Safezone, Fixmo Inc.
 ###### Toronto, ON (January 2013 &mdash; Present)
-* Implemented stacked notification system in Java with Vaadin (built on Google Web Toolkit) for Sentinel
-* Improved error handling for MySQL exceptions, application vault operations, and illegal user/device actions
+* Implemented stacked notification system in Java with Vaadin (built on Google Web Toolkit)
+* Improved error handling for MySQL exceptions, application vault operations, and device actions
 * Used Eclipse, vim, ant, svn, git, and bash extensively for development
 
 ##### Software Engineering in Test, Fixmo Inc.
 ###### Toronto, ON (May 2012 &mdash; August 2012)
 * Rewrote sections of Mobile Device Management Gateway test tool to use REST requests and SQL database queries
-* Seconded to Software Development Team to create test tool for License Manager
-* Conducted performance/load testing of Mobile Connector for iOS/Android and presented to senior executives
+* Seconded to Software Development team to create test tool for License Manager
+* Conducted performance/load testing of Mobile Connector via mock iOS/Android devices and presented to senior executives
 * Extensively automated testing workflow with batch scripts
 
 ##### Student Lead for One-to-One Laptop Initiative, Upper Canada College (UCC) IT Dept.
 ###### Toronto, ON (2009 &mdash; 2011)
-* Devised transition plan and organized logistics of laptop distribution with Director of IT
-* Managed hardware inventory database and supervised distribution of 1,000 laptops
-* Created and delivered training sessions to students and faculty
-* Produced end user documentation, still in use
 
 ##### Database Administrator, Greek Canadian Telephone Guide
 ###### Toronto, ON (March 2010)
-* Rewrote hierarchies from Microsoft Access in FileMaker
-* Implemented new database structures and print layouts
-* Devised scripts to calculate advertising fees
-* Creatively laid out information for a telephone book
 
 
 #### Technical Experience
 
 ##### University of Waterloo Menu ([uwmenu.alykhan.com](http://uwmenu.alykhan.com))
-* Retrieve UW Menu using Python with Heroku Scheduler via official API as JSON
-* Securely store assets on Amazon S3
-* Parse and display data via Flask with Jinja2 on Heroku
+* Displays lists of meals at each on-campus servery, formatted for mobile devices
+* Retrieves UW Menu JSON data using Python with cron-style scheduler via official API
+* Securely stores assets on Amazon S3
+* Parses and displays data via Flask with Jinja2 on Heroku
 
 ##### iOS Developer
 * Independently learning Objective-C, developed RPN Calculator, creating UW Menu native application
