@@ -29,19 +29,35 @@
 
 #### Work Experience
 
-* Software Engineering in Test, Fixmo Inc., Toronto ON
+###### Fixmo Inc.
+<div class="location">Toronto, ON</div>
+* Software Engineering &mdash; Sentinel/Safezone
+	* Jan. 2013&mdash;Apr. 2013
+	* Implemented stacked notification system in Java with Vaadin (built on Google Web Toolkit) for Sentinel
+	* Improved error handling for MySQL exceptions, application vault operations, and illegal user/device actions
+	* Used Eclipse, vim, ant, svn, git, and bash extensively for development
+
+###### Fixmo Inc.
+<div class="location">Toronto, ON</div>
+* Software Engineering in Test
 	* Apr. 2012&mdash;Aug. 2012
 	* Updated Mobile Device Management Gateway test tool
 	* Seconded to Software Development from Quality Assurance
 	* Conducted performance testing of Mobile Connector component/License Manager, presented to senior employees
 	* Automated steps required for testing with batch scripts
-* Student Lead for One-to-One Laptop Initiative, Upper Canada College (UCC) IT Dept., Toronto ON
+
+###### Upper Canada College (UCC) IT Dept.
+<div class="location">Toronto, ON</div>
+* Student Lead for One-to-One Laptop Initiative
 	* 2009&mdash;2011
 	* Devised transition plan and organized logistics of laptop distribution with Director of IT
 	* Managed hardware inventory database and supervised distribution of 1,000 laptops
 	* Created and delivered training sessions to students and faculty
 	* Produced end user documentation, currently in use
-* Database Administrator, Greek Canadian Telephone Guide, Toronto ON
+
+###### Greek Canadian Telephone Guide
+<div class="location">Toronto, ON</div>
+* Database Administrator
 	* Mar. 2010
 	* Rewrote hierarchies from Microsoft Access in FileMaker
 	* Implemented new database structures and print layouts
