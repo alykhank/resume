@@ -1,1 +1,1 @@
-The r&eacute;sum&eacute; of Alykhan Kanji.
+The résumé of Alykhan Kanji.
