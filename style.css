@@ -31,5 +31,6 @@ li {
 @media print {
 	#wrapper {
 		width: 90%;
+		box-shadow: none;
 	}
 }
