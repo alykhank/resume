@@ -10,13 +10,17 @@
 * Strong initiative and passion for learning: independently studied C, Python, Java, and Objective-C
 * Organized team member: collaborated with Fixmo's Developer Team using agile scrum framework
 * Confident in leadership roles, attentive listener, fluent in English and French
+* Languages: C, C++, Objective-C, Java, JavaScript, Python, Perl, HTML, CSS
+* Tools: git, svn, gdb, bash commands, batch scripting
 
 #### Work Experience
 
 ##### Software Engineering &mdash; Sentinel/Safezone, Fixmo Inc.
 ###### Toronto, ON (January 2013 &mdash; Present)
-* Implemented stacked notification system in Java with Vaadin (built on Google Web Toolkit)
-* Improved error handling for MySQL exceptions, application vault operations, and device actions
+* Implemented new features in Sentinel (using Java, Vaadin/GWT, MySQL/Hibernate) including:
+	* Alerts section to display policy violations with archival and commenting functionality
+	* Device enrollment emails with customization of templates and dynamic fields
+	* Application Vault to display installed applications on enrolled devices, allow for filtering, blacklisting
 * Used Eclipse, vim, ant, svn, git, and bash extensively for development
 
 ##### Software Engineering in Test, Fixmo Inc.
@@ -28,12 +32,28 @@
 
 ##### Student Lead for One-to-One Laptop Initiative, Upper Canada College (UCC) IT Dept.
 ###### Toronto, ON (2009 &mdash; 2011)
+* Devised transition plan and organized logistics of laptop distribution with Director of IT
+* Managed hardware inventory database and supervised distribution of 1,000 laptops
+* Created and delivered training sessions to students and faculty
+* Produced end user documentation, currently in use
 
 ##### Database Administrator, Greek Canadian Telephone Guide
 ###### Toronto, ON (March 2010)
+* Rewrote hierarchies from Microsoft Access in FileMaker
+* Implemented new database structures and print layouts
+* Devised scripts to calculate advertising fees
+* Creatively laid out information for a telephone book
 
 
-#### Technical Experience
+#### Education
+
+##### Candidate for Bachelor of Software Engineering
+###### University of Waterloo (2011 &mdash; Present)
+* Received an 89% average in most recent term
+* Awarded a position on the Dean's Honours List
+
+
+#### Personal Projects
 
 ##### University of Waterloo Menu ([uwmenu.alykhan.com](http://uwmenu.alykhan.com))
 * Displays lists of meals at each on-campus servery, formatted for mobile devices
@@ -42,7 +62,9 @@
 * Parses and displays data via Flask with Jinja2 on Heroku
 
 ##### iOS Developer
-* Independently learning Objective-C, developed RPN Calculator, creating UW Menu native application
+* Independently learning Objective-C using print and online resources
+* Developed programmable Reverse Polish Notation Calculator
+* Creating UW Menu native application, to be released in App Store
 
 ##### Infrared Experimentation
 * Designed systems using infrared LED's and Wii Remotes for infrared camera-based touch screens and virtual reality head tracking
@@ -58,14 +80,3 @@
 * Designed and developed websites using HTML, CSS, and JavaScript:
 	* [alykhan.com/WAC2011](http://alykhan.com/WAC2011/)
 	* [alykhan.com/WAC2010](http://alykhan.com/WAC2010/)
-
-
-#### Technical Proficiency
-
-* Languages: C, C++, Objective-C, Java, JavaScript, Python, Perl, HTML, CSS
-* Tools: git, svn, gdb, vim, bash commands, batch scripting
-
-#### Education
-
-##### Candidate for Bachelor of Software Engineering
-###### University of Waterloo (2011 &mdash; Present)
