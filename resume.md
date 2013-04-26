@@ -1,6 +1,6 @@
 # Alykhan Kanji
 
-### Software Engineering
+### Software Engineering • University of Waterloo
 
 ### [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [resume@alykhan.com](mailto:resume@alykhan.com)
 
@@ -8,10 +8,8 @@
 #### Skills
 
 * Strong initiative and passion for learning: independently studied C, Python, Java, and Objective-C
-* Organized team member: collaborated with Fixmo's Developer Team using agile scrum framework
 * Confident in leadership roles, attentive listener, fluent in English and French
 * Languages: C, C++, Objective-C, Java, JavaScript, Python, Perl, HTML, CSS
-* Tools: git, svn, gdb, bash commands, batch scripting
 
 #### Work Experience
 
@@ -20,8 +18,8 @@
 * Implemented new features in Sentinel (using Java, Vaadin/GWT, MySQL/Hibernate) including:
 	* Alerts section to display policy violations with archival and commenting functionality
 	* Device enrollment emails with customization of templates and dynamic fields
-	* Application Vault to display installed applications on enrolled devices, allow for filtering, blacklisting
-* Used Eclipse, vim, ant, svn, git, and bash extensively for development
+	* Application Vault to display installed apps on enrolled devices, allow filtering/blacklisting
+* Collaborated with Fixmo's Developer Team using agile scrum framework, git, svn, and ant
 
 ##### Software Engineering in Test, Fixmo Inc.
 ###### Toronto, ON (May 2012 &mdash; August 2012)
@@ -55,16 +53,16 @@
 
 #### Personal Projects
 
-##### University of Waterloo Menu ([uwmenu.alykhan.com](http://uwmenu.alykhan.com))
-* Displays lists of meals at each on-campus servery, formatted for mobile devices
-* Retrieves UW Menu JSON data using Python with cron-style scheduler via official API
-* Securely stores assets on Amazon S3
-* Parses and displays data via Flask with Jinja2 on Heroku
-
 ##### iOS Developer
 * Independently learning Objective-C using print and online resources
-* Developed programmable Reverse Polish Notation Calculator
-* Creating UW Menu native application, to be released in App Store
+* Developed programmable, graphing, reverse polish notation calculator
+* Creating several Open Data API based applications, to be released in App Store
+
+##### University of Waterloo Menu ([uwmenu.alykhan.com](http://uwmenu.alykhan.com))
+* Displays meals for the week at each on-campus eatery with locations & hours, formatted for mobile devices with jQuery Mobile
+* Retrieves JSON data using Python from UW Open Data API
+* Stores response in PostgreSQL database
+* Parses and displays data via Flask with Jinja2 on Heroku
 
 ##### Infrared Experimentation
 * Designed systems using infrared LED's and Wii Remotes for infrared camera-based touch screens and virtual reality head tracking
