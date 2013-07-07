@@ -1,80 +1,58 @@
 # Alykhan Kanji
 
-### Software Engineering • University of Waterloo
+## Software Engineering • University of Waterloo
 
-### [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [resume@alykhan.com](mailto:resume@alykhan.com)
+## [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [resume@alykhan.com](mailto:resume@alykhan.com)
 
+### Skills
 
-#### Skills
-
-* Strong initiative and passion for learning: independently studied C, Python, Java, and Objective-C
-* Confident in leadership roles, attentive listener, fluent in English and French
 * Languages: C, C++, Objective-C, Java, JavaScript, Python, Perl, HTML, CSS
+* Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
-#### Work Experience
+### Work Experience
 
-##### Software Engineering &mdash; Sentinel/Safezone, Fixmo Inc.
-###### Toronto, ON (January 2013 &mdash; Present)
-* Implemented new features in Sentinel (using Java, Vaadin/GWT, MySQL/Hibernate) including:
-	* Alerts section to display policy violations with archival and commenting functionality
-	* Device enrollment emails with customization of templates and dynamic fields
-	* Application Vault to display installed apps on enrolled devices, allow filtering/blacklisting
-* Collaborated with Fixmo's Developer Team using agile scrum framework, git, svn, and ant
+#### Software Engineering Co-op, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
+##### Newton, MA (September 2013 -- Present)
+* Software Engineering Co-op
 
-##### Software Engineering in Test, Fixmo Inc.
-###### Toronto, ON (May 2012 &mdash; August 2012)
-* Rewrote sections of Mobile Device Management Gateway test tool to use REST requests and SQL database queries
-* Seconded to Software Development team to create test tool for License Manager
-* Conducted performance/load testing of Mobile Connector via mock iOS/Android devices and presented to senior executives
+#### Vice President of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
+##### Toronto, ON (May 2013 -- Present)
+* Acting as Project Manager for team of web developers responsible for Nspire, NBTC, NTV, Nteract
+
+#### Software Engineering &mdash; Sentinel/SafeZone, Fixmo Inc. ([fixmo.com](http://fixmo.com))
+##### Toronto, ON (January 2013 -- April 2013)
+* Implemented new features in Sentinel using Java, Vaadin/GWT, MySQL/Hibernate
+* Developed policy violation inbox, Application Vault, template-based enrollment email system
+* Collaborated with Fixmo's Developer Team using Agile Scrum framework, git, svn, and ant
+
+#### Software Engineering in Test, Fixmo Inc. ([fixmo.com](http://fixmo.com))
+##### Toronto, ON (May 2012 -- August 2012)
+* Seconded to Software Development team to create several test tools
+* Conducted performance testing of Mobile Connector and presented to senior executives
 * Extensively automated testing workflow with batch scripts
 
-##### Student Lead for One-to-One Laptop Initiative, Upper Canada College (UCC) IT Dept.
-###### Toronto, ON (2009 &mdash; 2011)
-* Devised transition plan and organized logistics of laptop distribution with Director of IT
-* Managed hardware inventory database and supervised distribution of 1,000 laptops
-* Created and delivered training sessions to students and faculty
-* Produced end user documentation, currently in use
 
-##### Database Administrator, Greek Canadian Telephone Guide
-###### Toronto, ON (March 2010)
-* Rewrote hierarchies from Microsoft Access in FileMaker
-* Implemented new database structures and print layouts
-* Devised scripts to calculate advertising fees
-* Creatively laid out information for a telephone book
+### Education
+
+#### Candidate for Bachelor of Software Engineering
+##### University of Waterloo (2011 -- Present)
+* Received 89% in most recent term and awarded a position on the Dean's Honours List
+* Resident of VeloCity startup accelerator ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
 
 
-#### Education
+### Personal Projects
 
-##### Candidate for Bachelor of Software Engineering
-###### University of Waterloo (2011 &mdash; Present)
-* Received an 89% average in most recent term
-* Awarded a position on the Dean's Honours List
+#### iOS Developer
+* Developed Goose Watch app to display nests via MapKit, and a graphing, RPN calculator
+* Creating University of Waterloo Menu based on Open Data API
 
+#### University of Waterloo Menu ([uwmenu.com](http://uwmenu.com))
+* Displays meals at on-campus eateries, formatted with jQuery Mobile
+* Implemented Python server to retrieve JSON data and store in PostgreSQL database
+* Designed web app to parse and display data via Jinja2 on Heroku
 
-#### Personal Projects
+#### Finalist, LinkedIn Hackday 2013 Toronto ([buspointer.alykhan.com](http://buspointer.alykhan.com))
+* Collaboratively wrote mobile web app that displays nearby upcoming transit departures
 
-##### iOS Developer
-* Independently learning Objective-C using print and online resources
-* Developed programmable, graphing, reverse polish notation calculator
-* Creating several Open Data API based applications, to be released in App Store
-
-##### University of Waterloo Menu ([uwmenu.alykhan.com](http://uwmenu.alykhan.com))
-* Displays meals for the week at each on-campus eatery with locations & hours, formatted for mobile devices with jQuery Mobile
-* Retrieves JSON data using Python from UW Open Data API
-* Stores response in PostgreSQL database
-* Parses and displays data via Flask with Jinja2 on Heroku
-
-##### Infrared Experimentation
-* Designed systems using infrared LED's and Wii Remotes for infrared camera-based touch screens and virtual reality head tracking
-* Experimented with remote projector control via infrared adapters for smartphones
-
-##### Co-Founder and Head of BluesTV, UCC
-###### Toronto, ON (2007 &mdash; 2011)
-* Implemented six-site digital signage system to display student videos/photography, announcements, and schedules
-* Collected over $8,000 while fundraising for new equipment
-
-##### Head of Media/IT, World Affairs Conference UCC
-###### Toronto, ON (2008 &mdash; 2011)
-* Designed and developed websites using HTML, CSS, and JavaScript:
-	* [alykhan.com/WAC2011](http://alykhan.com/WAC2011/)
-	* [alykhan.com/WAC2010](http://alykhan.com/WAC2010/)
+#### Brampton Transit NextRide API ([nextride.alykhan.com](http://nextride.alykhan.com))
+* Created RESTful JSON API serving real-time bus schedules scraped from an ASPX form
