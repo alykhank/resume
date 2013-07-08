@@ -1,3 +1,5 @@
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
 # Alykhan Kanji
 
 ## Software Engineering • University of Waterloo
