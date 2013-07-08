@@ -12,30 +12,35 @@
 ### Work Experience
 
 #### Software Engineering Co-op, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
-##### Newton, MA (September 2013 -- Present)
+##### Newton MA, Fall 2013
+<div class="clearfix"></div>
 * Software Engineering Co-op
 
-#### Vice President of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
-##### Toronto, ON (May 2013 -- Present)
-* Acting as Project Manager for team of web developers responsible for Nspire, NBTC, NTV, Nteract
+#### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
+##### May 2013 -- Present
+<div class="clearfix"></div>
+* Acting as Project Manager for team of web developers
 
-#### Software Engineering &mdash; Sentinel/SafeZone, Fixmo Inc. ([fixmo.com](http://fixmo.com))
-##### Toronto, ON (January 2013 -- April 2013)
+#### Software Engineering, Fixmo Inc. ([fixmo.com](http://fixmo.com))
+##### Toronto, Winter 2013
+<div class="clearfix"></div>
 * Implemented new features in Sentinel using Java, Vaadin/GWT, MySQL/Hibernate
-* Developed policy violation inbox, Application Vault, template-based enrollment email system
-* Collaborated with Fixmo's Developer Team using Agile Scrum framework, git, svn, and ant
+* Developed policy violation inbox, Application Vault, enrollment email system
+* Collaborated with development team using Agile Scrum framework, git, svn, and ant
 
 #### Software Engineering in Test, Fixmo Inc. ([fixmo.com](http://fixmo.com))
-##### Toronto, ON (May 2012 -- August 2012)
+##### Toronto, Spring 2012
+<div class="clearfix"></div>
 * Seconded to Software Development team to create several test tools
-* Conducted performance testing of Mobile Connector and presented to senior executives
+* Conducted performance testing of Mobile Connector, presented to senior executives
 * Extensively automated testing workflow with batch scripts
 
 
 ### Education
 
 #### Candidate for Bachelor of Software Engineering
-##### University of Waterloo (2011 -- Present)
+##### University of Waterloo, 2011 -- Present
+<div class="clearfix"></div>
 * Received 89% in most recent term and awarded a position on the Dean's Honours List
 * Resident of VeloCity startup accelerator ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
 
@@ -43,16 +48,20 @@
 ### Personal Projects
 
 #### iOS Developer
-* Developed Goose Watch app to display nests via MapKit, and a graphing, RPN calculator
+<div class="clearfix"></div>
+* Developed Goose Watch app to display nests via MapKit and graphing calculator
 * Creating University of Waterloo Menu based on Open Data API
 
 #### University of Waterloo Menu ([uwmenu.com](http://uwmenu.com))
+<div class="clearfix"></div>
 * Displays meals at on-campus eateries, formatted with jQuery Mobile
 * Implemented Python server to retrieve JSON data and store in PostgreSQL database
 * Designed web app to parse and display data via Jinja2 on Heroku
 
 #### Finalist, LinkedIn Hackday 2013 Toronto ([buspointer.alykhan.com](http://buspointer.alykhan.com))
-* Collaboratively wrote mobile web app that displays nearby upcoming transit departures
+<div class="clearfix"></div>
+* Collaborated on mobile web app to display nearby transit departures
 
 #### Brampton Transit NextRide API ([nextride.alykhan.com](http://nextride.alykhan.com))
-* Created RESTful JSON API serving real-time bus schedules scraped from an ASPX form
+<div class="clearfix"></div>
+* Created RESTful JSON API serving real-time schedules scraped from ASPX form

@@ -10,16 +10,23 @@ h1, h2 {
 h1 {
 	margin-bottom: 0;
 }
-h2, h3, h4, h5 {
+h2, h4, h5 {
 	margin: 0;
 }
 h2 {
 	font-size: 1.2em;
 }
+h3 {
+	margin-bottom: 0em;
+}
 h4, h5 {
 	font-size: 1em;
 }
+h4 {
+	float: left;
+}
 h5 {
+	float: right;
 	font-style: italic;
 	font-weight: 300;
 	color: #999;
@@ -31,7 +38,13 @@ a {
 ul {
 	margin-top: 0;
 }
+.clearfix {
+	clear: both;
+}
 @media print {
+	body {
+		width: 95%;
+	}
 	a {
 		color: #348ac8;
 	}
