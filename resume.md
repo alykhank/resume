@@ -1,4 +1,4 @@
-<link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700|Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
 # Alykhan Kanji
 
@@ -8,20 +8,18 @@
 
 ### Skills
 
-* Languages: C, C++, Objective-C, Java, JavaScript, Python, Perl, HTML, CSS
+***
+
+* C, C++, Objective-C, Java, Python, HTML, CSS, JavaScript
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
-### Work Experience
+### Work
+
+***
 
 #### Software Engineering Co-op, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
 ##### Newton MA, Fall 2013
 <div class="clearfix"></div>
-* Software Engineering Co-op
-
-#### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
-##### May 2013 -- Present
-<div class="clearfix"></div>
-* Acting as Project Manager for team of web developers
 
 #### Software Engineering, Fixmo Inc. ([fixmo.com](http://fixmo.com))
 ##### Toronto, Winter 2013
@@ -38,7 +36,24 @@
 * Extensively automated testing workflow with batch scripts
 
 
+### Experience
+
+***
+
+#### VP of Web Development, Nspire Innovation Network
+##### Toronto, May 2013 -- Present
+<div class="clearfix"></div>
+* Acting as Project Manager for team of web developers ([nspire.org](http://nspire.org))
+
+#### University of Waterloo Head Delegate, CUSEC
+##### Montr&eacute;al, May 2013 -- Present
+<div class="clearfix"></div>
+* Head Delegate at Canadian University Software Engineering Conference ([cusec.net](http://cusec.net))
+
+
 ### Education
+
+***
 
 #### Candidate for Bachelor of Software Engineering
 ##### University of Waterloo, 2011 -- Present
@@ -47,7 +62,9 @@
 * Resident of VeloCity startup accelerator ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
 
 
-### Personal Projects
+### Projects
+
+***
 
 #### iOS Developer
 <div class="clearfix"></div>
