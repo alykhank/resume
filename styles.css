@@ -45,10 +45,8 @@ hr {
 	margin-top: 0;
 }
 li {
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-}
-.clearfix {
 	clear: both;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 @media print {
 	body {
