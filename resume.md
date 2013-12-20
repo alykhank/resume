@@ -4,18 +4,14 @@
 
 ## Software Engineering • University of Waterloo
 
-## [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [resume@alykhan.com](mailto:resume@alykhan.com)
+## [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [me@alykhan.com](mailto:me@alykhan.com)
 
 ### Skills
-
-***
 
 * C, C++, Objective-C, Java, Python, HTML, CSS, JavaScript
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
 ### Work
-
-***
 
 #### Software Engineering Co-op, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
 ##### Newton MA, Fall 2013
@@ -38,8 +34,6 @@
 
 ### Experience
 
-***
-
 #### VP of Web Development, Nspire Innovation Network
 ##### Toronto, May 2013 -- Present
 <div class="clearfix"></div>
@@ -53,8 +47,6 @@
 
 ### Education
 
-***
-
 #### Candidate for Bachelor of Software Engineering
 ##### University of Waterloo, 2011 -- Present
 <div class="clearfix"></div>
@@ -63,8 +55,6 @@
 
 
 ### Projects
-
-***
 
 #### iOS Developer
 <div class="clearfix"></div>
