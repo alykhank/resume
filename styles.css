@@ -1,24 +1,29 @@
 body {
-	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	width: 760px;
 	margin: auto;
+}
+h1, h3, h4, h5, h6 {
+	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h1, h2 {
 	text-align: center;
 }
 h1 {
 	margin-bottom: 0;
+	font-weight: bold;
 }
 h2, h3, h4, h5 {
 	margin: 0;
 }
 h2 {
 	font-size: 1.2em;
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 }
 h3 {
 	font-style: italic;
+	font-weight: bold;
 }
 h4 {
 	float: left;
