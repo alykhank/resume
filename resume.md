@@ -37,8 +37,11 @@
 
 #### University of Waterloo Head Delegate, CUSEC
 ##### Montr&eacute;al, May 2013 -- Present
-* Head Delegate at Canadian University Software Engineering Conference ([cusec.net](http://cusec.net))
+* Head Delegate at Canadian University Software Engineering Conference ([2014.cusec.net](http://2014.cusec.net))
 
+#### Operations Manager, C3 Inspire
+##### Waterloo, June 2013 -- Present
+* Redesigned web presence with self-initiated project ([c3inspire.com](http://c3inspire.com))
 
 ### Education
 
