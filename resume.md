@@ -8,62 +8,66 @@
 
 ### Skills
 
-* C, C++, Objective-C, Java, Python, HTML, CSS, JavaScript
+* C, C++, Objective-C, Java, Python, Ruby, HTML, CSS, JavaScript
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
-### Work
+### Professional Experience
 
-#### Software Engineering Co-op, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
-##### Newton MA, Fall 2013
+#### Software Engineering — Hotels Team, TripAdvisor LLC ([tripadvisor.com](http://tripadvisor.com))
+##### Boston, Fall 2013
+* Developed new product features in collaboration with PMs/designers using Java, Velocity, JavaScript
+* Implemented perceptual diff tool in Python and automated Selenium WebDriver testing for widgets
+* Investigated potential XStream serialization improvements in a multi-threaded environment
 
 #### Software Engineering, Fixmo Inc. ([fixmo.com](http://fixmo.com))
 ##### Toronto, Winter 2013
 * Implemented new features in Sentinel using Java, Vaadin/GWT, MySQL/Hibernate
-* Developed policy violation inbox, Application Vault, enrollment email system
+* Developed policy violation inbox, iOS/Android/BlackBerry application vault, enrollment email system
 * Collaborated with development team using Agile Scrum framework, git, svn, and ant
 
 #### Software Engineering in Test, Fixmo Inc. ([fixmo.com](http://fixmo.com))
 ##### Toronto, Spring 2012
-* Seconded to Software Development team to create several test tools
-* Conducted performance testing of Mobile Connector, presented to senior executives
-* Extensively automated testing workflow with batch scripts
+* Seconded to Software Development team to create automated testing tools
+* Conducted performance testing of Android/iOS Connector, presented to senior executives
+* Automated testing workflow with batch and SQL scripts, reduced weekly workload by several hours
 
 
-### Experience
+### Extra-curricular Experience
 
-#### VP of Web Development, Nspire Innovation Network
+#### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
 ##### Toronto, May 2013 -- Present
-* Acting as Project Manager for team of web developers ([nspire.org](http://nspire.org))
+* Project Manager and Lead Developer for web team using Ruby on Rails, Jekyll
 
-#### University of Waterloo Head Delegate, CUSEC
+#### University of Waterloo Head Delegate, CUSEC ([2014.cusec.net](http://2014.cusec.net))
 ##### Montr&eacute;al, May 2013 -- Present
-* Head Delegate at Canadian University Software Engineering Conference ([2014.cusec.net](http://2014.cusec.net))
+* Head Delegate at Canadian University Software Engineering Conference
+* Organized accommodations and transportation from Waterloo to Montréal for 30 students
 
-#### Operations Manager, C3 Inspire
+#### Operations Manager, C3 Inspire ([c3inspire.com](http://c3inspire.com))
 ##### Waterloo, June 2013 -- Present
-* Redesigned web presence with self-initiated project ([c3inspire.com](http://c3inspire.com))
+* Redesigned web presence with self-initiated project
+
+#### Hacker, HackMIT • BarCamp Boston • Music Hack Day Boston • NYUHacks • LinkedIn Hackday
+* Finalist at LinkedIn Hackday, developed Open Data and crowdsourcing applications ([alykhan.com](http://alykhan.com/#portfolio))
 
 ### Education
 
 #### Candidate for Bachelor of Software Engineering
 ##### University of Waterloo, 2011 -- Present
-* Received 89% in most recent term and awarded a position on the Dean's Honours List
-* Resident of VeloCity startup accelerator ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
-
+* Awarded positions on Dean's Honours List for both Engineering and Mathematics
+* CEO in Velocity startup accelerator residence program ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
 
 ### Projects
 
-#### iOS Developer
-* Developed Goose Watch app to display nests via MapKit and graphing calculator
-* Creating University of Waterloo Menu based on Open Data API
+#### Linkbelt
+* Collaborated on iOS app that shortens links using the goo.gl, bit.ly, and TinyURL APIs
 
 #### University of Waterloo Menu ([uwmenu.com](http://uwmenu.com))
-* Displays meals at on-campus eateries, formatted with jQuery Mobile
-* Implemented Python server to retrieve JSON data and store in PostgreSQL database
-* Designed web app to parse and display data via Jinja2 on Heroku
+* Displays Open Data meal info for on-campus eateries, ~500 views/month
+* Implemented Python web app with Flask microframework, design uses jQuery Mobile
 
-#### Finalist, LinkedIn Hackday 2013 Toronto ([buspointer.alykhan.com](http://buspointer.alykhan.com))
-* Collaborated on mobile web app to display nearby transit departures
+#### Tunezout ([tunezout.com](http://tunezout.com))
+* Developed social music billboard using Python/Django backend, Twitter OAuth
 
 #### Brampton Transit NextRide API ([nextride.alykhan.com](http://nextride.alykhan.com))
-* Created RESTful JSON API serving real-time schedules scraped from ASPX form
+* Created RESTful JSON API serving real-time bus schedules
