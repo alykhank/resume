@@ -35,16 +35,16 @@
 ### Extra-curricular Experience
 
 #### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
-##### Toronto, May 2013 -- Present
+##### Toronto, Spring 2013 -- Present
 * Project Manager and Lead Developer for web team using Ruby on Rails, Jekyll
 
 #### University of Waterloo Head Delegate, CUSEC ([2014.cusec.net](http://2014.cusec.net))
-##### Montr&eacute;al, May 2013 -- Present
+##### Montr&eacute;al, Spring 2013 -- Present
 * Head Delegate at Canadian University Software Engineering Conference
 * Organized accommodations and transportation from Waterloo to Montréal for 30 students
 
 #### Operations Manager, C3 Inspire ([c3inspire.com](http://c3inspire.com))
-##### Waterloo, June 2013 -- Present
+##### Waterloo, Summer 2013 -- Present
 * Redesigned web presence with self-initiated project
 
 #### Hacker, HackMIT • BarCamp Boston • Music Hack Day Boston • NYUHacks • LinkedIn Hackday
@@ -60,14 +60,18 @@
 ### Projects
 
 #### Linkbelt
+##### Fall 2013 -- Present
 * Collaborated on iOS app that shortens links using the goo.gl, bit.ly, and TinyURL APIs
 
 #### University of Waterloo Menu ([uwmenu.com](http://uwmenu.com))
+##### Winter 2012 -- Present
 * Displays Open Data meal info for on-campus eateries, ~500 views/month
 * Implemented Python web app with Flask microframework, design uses jQuery Mobile
 
 #### Tunezout ([tunezout.com](http://tunezout.com))
+##### Summer 2013 -- Present
 * Developed social music billboard using Python/Django backend, Twitter OAuth
 
 #### Brampton Transit NextRide API ([nextride.alykhan.com](http://nextride.alykhan.com))
+##### Spring 2013
 * Created RESTful JSON API serving real-time bus schedules
