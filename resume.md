@@ -33,7 +33,7 @@
 
 ### Projects
 
-#### Linkbelt ([linkbelt.me](http://linkbelt.me), coming to the App Store)
+#### Linkbelt ([linkbelt.me](http://linkbelt.me), [appsto.re/i66D9DW](https://appsto.re/i66D9DW))
 ##### Fall 2013 -- Present
 * Collaborated on iOS app that shortens links using the goo.gl, bit.ly, and TinyURL APIs
 
