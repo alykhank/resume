@@ -13,6 +13,10 @@
 
 ### Professional Experience
 
+#### **Apple Inc.**, Software Engineering Intern ([apple.com](http://apple.com))
+##### Cupertino, Spring 2014
+* Developed new features for iOS and Siri
+
 #### **TripAdvisor LLC**, Software Engineering Co-op ([tripadvisor.com](http://tripadvisor.com))
 ##### Boston, Fall 2013
 * Shipped new features in collaboration with PMs and designers using Java, Apache Velocity, JavaScript
@@ -46,10 +50,6 @@
 #### Tunezout ([tunezout.com](http://tunezout.com))
 ##### Summer 2013 -- Present
 * Developed social music billboard using Python/Django backend, Twitter OAuth
-
-#### Brampton Transit NextRide API ([nextride.alykhan.com](http://nextride.alykhan.com))
-##### Spring 2013
-* Created RESTful JSON API and mobile web app serving real-time bus schedules
 
 ### Extracurriculars
 
