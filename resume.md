@@ -8,28 +8,28 @@
 
 ### Skills
 
-* C, C++, Objective-C, Java, Python, Ruby, HTML, CSS, JavaScript
+* C, C++, Objective-C, Java, Python, HTML, CSS, JavaScript
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
 ### Professional Experience
 
-#### **Apple Inc.**, Software Engineering Intern ([apple.com](http://apple.com))
+#### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Spring 2014
 * Developed new features for iOS and Siri
 
-#### **TripAdvisor LLC**, Software Engineering Co-op ([tripadvisor.com](http://tripadvisor.com))
+#### **[TripAdvisor LLC](http://tripadvisor.com)** --- Software Engineering Co-op, Hotels
 ##### Boston, Fall 2013
 * Shipped new features in collaboration with PMs and designers using Java, Apache Velocity, JavaScript
 * Implemented perceptual diff tool in Python with PhantomJS and automated Selenium WebDriver testing
 * Investigated potential XStream serialization improvements in a multi-threaded environment
 
-#### **Fixmo Inc.**, Software Engineering ([fixmo.com](http://fixmo.com))
+#### **[Fixmo Inc.](http://fixmo.com)** (acquired by [Good Technology](http://good.com)) --- Software Engineering, Sentinel
 ##### Toronto, Winter 2013
 * Wrote new components for Sentinel, a Mobile Risk Management console, using Java, Vaadin, MySQL
 * Created policy violation inbox, iOS/Android/BlackBerry application vault, enrollment email system
 * Collaborated with development team using Agile Scrum framework, Git, Subversion, Ant
 
-#### **Fixmo Inc.**, Software Engineering in Test ([fixmo.com](http://fixmo.com))
+#### **[Fixmo Inc.](http://fixmo.com)** (acquired by [Good Technology](http://good.com)) --- Software Engineering in Test
 ##### Toronto, Spring 2012
 * Seconded to Software Development team to create tools for load testing a REST API
 * Conducted performance testing of Android/iOS Connector, presented to senior executives
