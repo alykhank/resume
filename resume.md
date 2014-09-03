@@ -43,9 +43,7 @@
 
 #### University of Waterloo Menu ([uwmenu.com](http://uwmenu.com))
 ##### Winter 2012 -- Present
-* Constructed mobile web and iOS apps with meal info for on-campus eateries, ~500 views/month
-* Headed project in Velocity startup accelerator residence program ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
-* Built web app with Flask microframework, data from Open Data API, design uses jQuery Mobile
+* Constructed mobile web (Flask & jQuery Mobile) and iOS apps with meal info for on-campus eateries
 
 #### Tunezout ([tunezout.com](http://tunezout.com))
 ##### Summer 2013 -- Present
@@ -54,17 +52,16 @@
 ### Extracurriculars
 
 #### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
-##### Toronto, Summer 2013 -- Present
-* Led web team for organization focused on building entrepreneurial leaders in business and technology
-* Managed project for rewrite of web presence using Ruby on Rails, Jekyll, ~2000 views/month
+##### Toronto, 2013 -- 2014
+* Led web team for rewrite of web presence using Ruby on Rails, Jekyll, ~2000 views/month
 
 #### University of Waterloo Head Delegate, CUSEC ([2014.cusec.net](http://2014.cusec.net))
-##### Montr&eacute;al, Spring 2013 -- Present
-* Organized tickets, accommodations, and transportation from Waterloo to Montréal for 30 students
+##### Montr&eacute;al, 2013 -- 2014
+* Organized tickets, accommodations, and transportation from Waterloo to Montr&eacute;al for 30 students
 
 #### Operations Manager, C3 Inspire ([c3inspire.com](http://c3inspire.com))
-##### Waterloo, Spring 2013 -- Present
-* Piloted web redesign for organization aiming to foster entrepreneurial spirit, ~3,000 views/month
+##### Waterloo, 2013 -- 2014
+* Piloted web redesign for organization aiming to foster entrepreneurial spirit, ~3000 views/month
 
 #### Hacker, HackMIT • BarCamp Boston • Music Hack Day Boston • NYUHacks • LinkedIn Hackday
 * Developed Open Data and crowdsourcing applications, finalist at LinkedIn Hackday ([alykhan.com/#portfolio](http://alykhan.com/#portfolio))
