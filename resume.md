@@ -15,7 +15,9 @@
 
 #### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Spring 2014
-* Developed new features for iOS and Siri
+* Enhanced Intelligent Suggestions feature in iOS 8 Mail, shipping to 500M+ devices
+* Refined pattern recognition and matching techniques for data extraction via Natural Language Processing
+* Established continuous integration tool to measure precision & recall, perform automated regression testing
 
 #### **[TripAdvisor LLC](http://tripadvisor.com)** --- Software Engineering Co-op, Hotels
 ##### Boston, Fall 2013
