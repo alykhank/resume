@@ -1,43 +1,42 @@
 body {
-	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	width: 760px;
 	margin: auto;
 }
-h1, h3, h4, h5, h6 {
-	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h1, h2 {
 	text-align: center;
 }
 h1 {
 	margin-bottom: 0;
-	font-weight: bold;
+	font-weight: bolder;
 }
 h2, h5 {
 	margin: 0;
 }
 h2 {
-	font-size: 1em;
-	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
 	font-weight: normal;
 }
 h3 {
 	margin: 0.9em 0 0 0;
 	font-weight: bolder;
-	font-size: 0.9em;
+	font-size: 1.1em;
 }
 h4 {
 	margin: 0.2em 0 0 0;
 	float: left;
 	font-weight: normal;
-	font-size: 0.9em;
+	font-size: 1em;
 }
 h5 {
 	margin: 0.4em 0 0 0;
 	float: right;
 	font-weight: normal;
 	color: #666;
-	font-size: 0.7em;
+	font-size: 0.9em;
 }
 a {
 	color: #348ac8;
@@ -49,7 +48,6 @@ ul {
 }
 li {
 	clear: both;
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	font-size: 0.9em;
 	margin-left: -1em;
 }

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:300,400,700|Source+Sans+Pro">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro">
 
 # Alykhan Kanji
 
@@ -8,10 +8,14 @@
 
 ### Skills
 
-* C, C++, Objective-C, Java, Python, HTML, CSS, JavaScript
+* C, C++, Objective-C, Swift, Java, Python, HTML, CSS, JavaScript
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
 ### Professional Experience
+
+#### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
+##### Cupertino, Winter 2015
+* Developed new features for iOS and Siri
 
 #### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Spring 2014
@@ -61,10 +65,6 @@
 ##### Montr&eacute;al, 2013 -- 2014
 * Organized tickets, accommodations, and transportation from Waterloo to Montr&eacute;al for 30 students
 
-#### Operations Manager, C3 Inspire ([c3inspire.com](http://c3inspire.com))
-##### Waterloo, 2013 -- 2014
-* Piloted web redesign for organization aiming to foster entrepreneurial spirit, ~3000 views/month
-
 #### Hacker, HackMIT • BarCamp Boston • Music Hack Day Boston • NYUHacks • LinkedIn Hackday
 * Developed Open Data and crowdsourcing applications, finalist at LinkedIn Hackday ([alykhan.com/#portfolio](http://alykhan.com/#portfolio))
 
@@ -72,4 +72,4 @@
 
 #### Candidate for Bachelor of Software Engineering
 ##### University of Waterloo, 2011 -- Present
-* Dean’s Honours List for both Engineering and Mathematics
+* Term Dean’s Honours List for both Engineering and Mathematics
