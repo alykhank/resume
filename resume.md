@@ -59,13 +59,13 @@
 
 #### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
 ##### Toronto, 2013 -- 2014
-* Led web team for rewrite of web presence using Ruby on Rails, Jekyll, ~2000 views/month
+* Managed team for rewrite of web presence using Ruby on Rails, Jekyll, ~2000 views/month
 
 #### University of Waterloo Head Delegate, CUSEC ([2014.cusec.net](http://2014.cusec.net))
 ##### Montr&eacute;al, 2013 -- 2014
 * Organized tickets, accommodations, and transportation from Waterloo to Montr&eacute;al for 30 students
 
-#### Hacker, HackMIT • BarCamp Boston • Music Hack Day Boston • NYUHacks • LinkedIn Hackday
+#### Hacker, Hack the North • HackMIT • BarCamp Boston • NYUHacks • LinkedIn Hackday
 * Developed Open Data and crowdsourcing applications, finalist at LinkedIn Hackday ([alykhan.com/#portfolio](http://alykhan.com/#portfolio))
 
 ### Education
