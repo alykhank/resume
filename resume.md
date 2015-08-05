@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro">
-
 # Alykhan Kanji
 
 ## Software Engineering • University of Waterloo
@@ -8,7 +6,8 @@
 
 ### Skills
 
-* C, C++, Objective-C, Swift, Java, Python, HTML, CSS, JavaScript
+* Python, Java, Swift, C, C++, Objective-C, HTML, CSS, JavaScript, MATLAB
+* Frameworks: Flask, Django, Apache Thrift, Apache Hadoop, Apache Pig
 * Strong initiative and passion for learning, confident in leadership roles, attentive listener
 
 ### Professional Experience
