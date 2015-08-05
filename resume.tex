@@ -1,17 +1,28 @@
-\documentclass[11pt,letterpaper]{article}
+\documentclass[pdftex,11pt,letterpaper]{article}
 
-\usepackage[cm]{fullpage}
+% Reduce margins to 1cm on all sides
+\usepackage[margin=1cm]{geometry}
+
+% Allow use of color names
 \usepackage[usenames,dvipsnames]{xcolor}
+
+% Enable URL linking
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,urlcolor=cyan}
+
+% Customize spacing of titles
 \usepackage{titlesec}
 \titlespacing{\subsection}{0pt}{*3}{0pt}
+
+% Customize list spacing
 \usepackage{enumitem}
 \setlist[itemize]{leftmargin=1.5em,itemsep=0pt,before=\vspace{-1mm},after=\vspace{1.3mm}}
-\usepackage[stretch=10,shrink=10]{microtype}
+
+% Set font to Source Sans Pro
 \usepackage[default]{sourcesanspro}
 \usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
+
+% Modify line spacing
 \linespread{0.8}
 
 % Prevent indents for all paragraphs
