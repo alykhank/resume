@@ -1,57 +1,57 @@
 body {
-	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
-	max-width: 1024px;
-	margin: auto;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  max-width: 1024px;
+  margin: auto;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h1, h2 {
-	text-align: center;
+  text-align: center;
 }
 h1 {
-	margin-bottom: 0;
-	font-weight: bolder;
+  margin-bottom: 0;
+  font-weight: bolder;
 }
 h2, h5 {
-	margin: 0;
+  margin: 0;
 }
 h2 {
-	font-weight: normal;
+  font-weight: normal;
 }
 h3 {
-	margin: 0.9em 0 0 0;
-	font-weight: bolder;
+  margin: 0.9em 0 0 0;
+  font-weight: bolder;
 }
 h4 {
-	margin: 0.2em 0 0 0;
-	float: left;
-	font-weight: normal;
+  margin: 0.2em 0 0 0;
+  float: left;
+  font-weight: normal;
 }
 h5 {
-	margin: 0.4em 0 0 0;
-	float: right;
-	font-weight: normal;
-	color: #666;
+  margin: 0.4em 0 0 0;
+  float: right;
+  font-weight: normal;
+  color: #666;
 }
 a {
-	color: #348ac8;
-	text-decoration: none;
+  color: #348ac8;
+  text-decoration: none;
 }
 ul {
-	margin-top: 0;
-	margin-bottom: 0.5em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 li {
-	clear: both;
-	margin-left: -1em;
+  clear: both;
+  margin-left: -1em;
 }
 
 @media print {
-	body {
-		margin-top: -1em;
-		max-width: 95%;
-		font-size: 1.4em;
-	}
+  body {
+    margin-top: -1em;
+    max-width: 95%;
+    font-size: 1.4em;
+  }
 }
