@@ -42,6 +42,10 @@
 
 ### Projects
 
+#### Tailor ([tailor.sh](https://tailor.sh))
+##### Summer 2014 -- Present
+* Developed a static analyzer for [Swift](https://developer.apple.com/swift/) with Java and [ANTLR](http://www.antlr.org) in a team of four, for [Capstone Design](https://uwaterloo.ca/engineering/entrepreneurship/capstone-design/) project
+
 #### Linkbelt ([linkbelt.me](http://linkbelt.me), [appsto.re/i66D9DW](https://appsto.re/i66D9DW))
 ##### Fall 2013 -- Present
 * Collaborated on iOS app that shortens links using the goo.gl, bit.ly, and TinyURL APIs
@@ -50,22 +54,15 @@
 ##### Winter 2012 -- Present
 * Constructed mobile web (Flask & jQuery Mobile) and iOS apps with meal info for on-campus eateries
 
-#### Tunezout ([tunezout.com](http://tunezout.com))
-##### Summer 2013 -- Present
-* Developed social music billboard using Python/Django backend, Twitter OAuth
-
 ### Extracurriculars
 
-#### VP of Web Development, Nspire Innovation Network ([nspire.org](http://nspire.org))
-##### Toronto, 2013 -- 2014
-* Managed team for rewrite of web presence using Ruby on Rails, Jekyll, ~2000 views/month
+#### Five-time resident, Velocity Entrepreneurship Program ([velocity.uwaterloo.ca](http://velocity.uwaterloo.ca))
+##### Waterloo, 2013 -- 2016
+* Bootstrapped technical projects in fields ranging from travel planning to developer tools to medicine
 
-#### University of Waterloo Head Delegate, CUSEC ([2014.cusec.net](http://2014.cusec.net))
-##### Montr&eacute;al, 2013 -- 2014
-* Organized tickets, accommodations, and transportation from Waterloo to Montr&eacute;al for 30 students
-
-#### Hacker, Hack the North • HackMIT • BarCamp Boston • NYUHacks • LinkedIn Hackday
-* Developed Open Data and crowdsourcing applications, finalist at LinkedIn Hackday ([alykhan.com/#portfolio](http://alykhan.com/#portfolio))
+#### Four-time delegate, Canadian University Software Engineering Conference ([2016.cusec.net](http://2016.cusec.net))
+##### Montréal, 2012 -- 2016
+* Organized tickets, accommodations, and transportation from Waterloo to Montréal for 30 students
 
 ### Education
 
