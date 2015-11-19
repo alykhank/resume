@@ -6,15 +6,6 @@ body {
 }
 
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-h1,
 h2 {
   text-align: center;
 }
@@ -68,8 +59,8 @@ li {
 
 @media print {
   body {
-    margin-top: -1em;
+    margin-top: -2em;
     max-width: 95%;
-    font-size: 1.4em;
+    font-size: .8em;
   }
 }
