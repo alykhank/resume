@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Usage: script/bootstrap
+# Sets up required modules for development.
+
+set -ev
+
+hash pandoc 2>/dev/null || brew install pandoc
+
+sudo tlmgr install enumitem ly1 mweights sourcesanspro titlesec

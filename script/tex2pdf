@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Usage: script/tex2pdf
+# Generates PDF version of résumé from LaTeX version.
+
+pdflatex resume.tex
+rm resume.{aux,log,out}
