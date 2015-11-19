@@ -2,7 +2,7 @@
 
 ## Software Engineering • University of Waterloo
 
-## [github.com/alykhank](http://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [me@alykhan.com](mailto:me@alykhan.com)
+## [github.com/alykhank](https://github.com/alykhank) • [alykhan.com](http://alykhan.com) • [me@alykhan.com](mailto:me@alykhan.com)
 
 ### Skills
 
@@ -12,11 +12,15 @@
 
 ### Professional Experience
 
-#### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
+#### **[Apple Inc.](https://apple.com)** --- Software Engineering Intern, Cloud Services Localization
+##### Paris, Fall 2015
+* Developed new features for iOS
+
+#### **[Apple Inc.](https://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Winter 2015
 * Developed new features for iOS and Siri
 
-#### **[Apple Inc.](http://apple.com)** --- Software Engineering Intern, Siri
+#### **[Apple Inc.](https://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Spring 2014
 * Enhanced Intelligent Suggestions feature in iOS 8 Mail, shipping to 500M+ devices
 * Refined pattern recognition and matching techniques for data extraction via Natural Language Processing
@@ -28,13 +32,13 @@
 * Implemented perceptual diff tool in Python with PhantomJS and automated Selenium WebDriver testing
 * Investigated potential XStream serialization improvements in a multi-threaded environment
 
-#### **[Fixmo Inc.](http://fixmo.com)** (acquired by [Good Technology](http://good.com)) --- Software Engineering, Sentinel
+#### **[Fixmo Inc.](https://www1.good.com/about/press-releases/good-technology-acquires-fixmo-security-business.html)** (acquired by [Good Technology](https://good.com)) --- Software Engineering, Sentinel
 ##### Toronto, Winter 2013
 * Wrote new components for Sentinel, a Mobile Risk Management console, using Java, Vaadin, MySQL
 * Created policy violation inbox, iOS/Android/BlackBerry application vault, enrollment email system
 * Collaborated with development team using Agile Scrum framework, Git, Subversion, Ant
 
-#### **[Fixmo Inc.](http://fixmo.com)** (acquired by [Good Technology](http://good.com)) --- Software Engineering in Test
+#### **[Fixmo Inc.](https://www1.good.com/about/press-releases/good-technology-acquires-fixmo-security-business.html)** (acquired by [Good Technology](https://good.com)) --- Software Engineering in Test
 ##### Toronto, Spring 2012
 * Seconded to Software Development team to create tools for load testing a REST API
 * Conducted performance testing of Android/iOS Connector, presented to senior executives
