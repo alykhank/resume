@@ -59,8 +59,8 @@ li {
 
 @media print {
   body {
-    margin-top: -2em;
+    margin-top: -1em;
     max-width: 95%;
-    font-size: .8em;
+    font-size: .75em;
   }
 }
