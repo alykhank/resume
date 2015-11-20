@@ -6,4 +6,4 @@ set -ev
 
 hash pandoc 2>/dev/null || brew install pandoc
 
-sudo tlmgr install enumitem ly1 mweights sourcesanspro titlesec
+sudo tlmgr install enumitem latexmk ly1 mweights sourcesanspro titlesec
