@@ -18,7 +18,9 @@
 
 #### **[Apple Inc.](https://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Winter 2015
-* Developed new features for iOS and Siri
+* Contributed to Intelligence features including proactive suggestions for iOS 9, installed on 70% of iOS devices
+* Implemented routine and "frecency" heuristics for Siri App Suggestions, displayed in Spotlight
+* Built internal iOS application in Swift to demo machine learning predictions to senior executives
 
 #### **[Apple Inc.](https://apple.com)** --- Software Engineering Intern, Siri
 ##### Cupertino, Spring 2014
