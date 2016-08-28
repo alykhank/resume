@@ -72,6 +72,6 @@
 
 ### Education
 
-#### Candidate for Bachelor of Software Engineering
-##### University of Waterloo, 2011 -- Present
-* Term Dean’s Honours List for both Engineering and Mathematics
+#### Bachelor of Software Engineering
+##### University of Waterloo, 2011 -- 2016
+* Graduated with Distinction and on the Dean's Honours List
