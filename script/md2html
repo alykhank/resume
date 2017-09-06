@@ -2,4 +2,4 @@
 # Usage: script/md2html
 # Generates HTML5 version of résumé from GitHub Flavored Markdown version.
 
-pandoc -f markdown_github -t html5 --smart -s -c styles.css -c "https://fonts.googleapis.com/css?family=Source+Sans+Pro" resume.md -o resume.html
+pandoc -f markdown_github -t html5 --smart -s -c styles.css -c "https://fonts.googleapis.com/css?family=Source+Sans+Pro" --email-obfuscation=references resume.md -o resume.html
